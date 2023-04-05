@@ -1,0 +1,20 @@
+{
+  "name": "neural-net",
+  "version": "1.0.0",
+  "description": "**WIP**",
+  "main": "core/main.js",
+  "scripts": {
+    "start": "node core/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirGoatsalot/neural-net-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirGoatsalot/neural-net-js/issues"
+  },
+  "homepage": "https://github.com/SirGoatsalot/neural-net-js#readme"
+}
